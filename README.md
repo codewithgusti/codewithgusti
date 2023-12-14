@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Augustine Shokane
-- 👀 I’m interested in Software Development & Artificial intelligence 
-- 🌱 I’m currently learning Python, Dart,Flutter and Neural Network Models
-- 💞️ I’m looking to collaborate on Flutter Mobile Apps with Django 
+- 👀 I’m interested in Software Engineering & Artificial intelligence 
+- 🌱 I’m currently learning Python,SQL, Data Engineering and Machine Learning
+- 💞️ I’m looking to collaborate on Flutter Mobile Apps
 - 📫 How to reach me , send an email at augustineshoks7@gmail.com
 
 <!---
