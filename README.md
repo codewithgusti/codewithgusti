@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Augustine Shokane
+- 👋 Hi, I’m Kholofelo Augustine Shokane
 - 👀 I’m interested in Artificial intelligence 
 - 🌱 I’m currently learning Python,SQL, Data Engineering and Software Engineering
 - 💞️ I’m looking to collaborate on Flutter Mobile Apps
