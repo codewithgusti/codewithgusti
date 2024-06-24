@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Kholofelo Augustine Shokane
-- 👀 I’m interested in Artificial intelligence 
-- 🌱 I’m currently learning Python,SQL, Data Engineering and Software Engineering
-- 💞️ I’m looking to collaborate on Flutter Mobile Apps
-- 📫 How to reach me , send an email at augustineshoks7@gmail.com
+I have a keen interest in artificial intelligence and am currently enhancing my skills in Python, SQL, data engineering, and software engineering.
+I'm eager to collaborate on Flutter mobile app projects, leveraging my growing expertise in these areas.
+If you'd like to reach out, please send an email to augustineshoks7@gmail.com
 
 <!---
 codewithsyre/codewithsyre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
